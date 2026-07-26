@@ -18,6 +18,9 @@ dist/
 # WebAssembly
 public/js/
 
+# Config files
+*.ini
+
 # Vercel
 .vercel
 .env*
