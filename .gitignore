@@ -1,0 +1,25 @@
+# Android
+android-project/.idea/
+android-project/.gradle/
+android-project/build/
+android-project/local.properties
+android-project/app/.cxx/
+android-project/app/build/
+
+# Build Artifacts
+build/
+cmake-build-*/
+dist/
+
+# IDE Metadata
+.idea/
+.qtcreator/
+
+# WebAssembly
+public/js/
+
+# Vercel
+.vercel
+.env*
+
+.vercel
