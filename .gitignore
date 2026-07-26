@@ -21,5 +21,3 @@ public/js/
 # Vercel
 .vercel
 .env*
-
-.vercel
